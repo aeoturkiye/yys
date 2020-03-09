@@ -4,7 +4,7 @@ const items = document.querySelectorAll(".accordion a");
 function toggleAccordion(){
   this.classList.toggle('active');
   this.nextElementSibling.classList.toggle('active');
-  Siblings.classList.toggle('deactivate');
+  .siblings('li.a').toggle('deactivate');
 
 }
  
