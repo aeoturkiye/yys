@@ -1,10 +1,10 @@
-// Code By Webdevtrick ( https://webdevtrick.com )
+vate// Code By Webdevtrick ( https://webdevtrick.com )
 const items = document.querySelectorAll(".accordion a");
  
 function toggleAccordion(){
   this.classList.toggle('active');
   this.nextElementSibling.classList.toggle('active');
-  this.Siblings.classList.toggle('passive');
+  this.Siblings.classList.toggle('deactivate');
 
 }
  
