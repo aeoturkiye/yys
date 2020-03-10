@@ -10,14 +10,14 @@ function toggleAccordion(){
   for (i = 0; i < acc.length; i++) {
   items[i].classList.remove('active');
   items[i].nextElementSibling.classList.remove('active');
-  // if (asd == this) {
-   // asd.classList.toggle('active');
-  //  asd.nextElementSibling.classList.toggle('active');
-  //  }  
+  if (asd == this) {
+   this.classList.toggle('active');
+   this.nextElementSibling.classList.toggle('active');
+   }  
     
   }
   
 
 }
  
-items.forEach(item => item.addEventListener('click', toggleAccordion));
+//items.forEach(item => item.addEventListener('click', toggleAccordion));
