@@ -6,14 +6,14 @@ var speed = "500";
 $(document).ready(function(){
 
 // Question handler
-  $('accordian.a').on(action, function(){
+  $('accordion.a').on(action, function(){
 
     // gets next element
     // opens .a of selected question
     $(this).next().slideToggle(speed)
     
     // selects all other answers and slides up any open answer
-    .siblings('content.p').slideUp();
+    .siblings('content').slideUp();
   
     // Grab img from clicked question
     //var img = $(this).children('img');
