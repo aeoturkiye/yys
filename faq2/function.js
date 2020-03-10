@@ -4,7 +4,7 @@ function toggleAccordion(){
 
 var acc = document.getElementsByClassName("content");
 
-if (this.classList.toggle('active')== false) {
+if (this.nextElementSibling.classList.toggle('active')== false) {
 var i;
   for (i = 0; i < acc.length; i++) {  
   items[i].classList.toggle('active',false);
