@@ -16,7 +16,8 @@ var i;
 }
   
   if (this.classList.toggle('active')== true) {
-      alert("asd")
+    items[i].classList.toggle('active',false);
+    items[i].nextElementSibling.classList.toggle('active',false);
   }
   
   
