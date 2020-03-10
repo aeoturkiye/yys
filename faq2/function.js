@@ -9,7 +9,7 @@ function toggleAccordion(){
   var i;
 
   for (i = 0; i < acc.length; i++) {
-  if (asd && asd == this) {
+  if (asd == this) {
     this.classList.toggle('active');
     this.nextElementSibling.classList.toggle('active');
     }  
