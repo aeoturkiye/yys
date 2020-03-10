@@ -23,4 +23,4 @@ function toggleAccordion(){
 }
  
 
-//items.forEach(item => item.addEventListener('click', toggleAccordion));
+items.forEach(item => item.addEventListener('click', toggleAccordion));
