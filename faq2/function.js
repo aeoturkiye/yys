@@ -6,7 +6,7 @@ var speed = "500";
 $(document).ready(function(){
 
 // Question handler
-  $('content.p').on(action, function(){
+  $('div.a').on(action, function(){
 
     // gets next element
     // opens .a of selected question
