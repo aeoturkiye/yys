@@ -5,11 +5,11 @@ function toggleAccordion(){
 this.classList.toggle('active');
 this.nextElementSibling.classList.toggle('active'); 
   
-//if this.classList.hasClass("active"){
-//  alert("active");
+if this.classList.hasClass("active"){
+  alert("active");
 //} else {
 //alert("not");
-//}
+}
   
 }  
 //var acc = document.getElementsByClassName("content");
