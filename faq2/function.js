@@ -16,7 +16,6 @@ var i;
   
   this.classList.toggle('active',true);
   this.nextElementSibling.classList.toggle('active',true);
-  return false;
 } 
 }
 
