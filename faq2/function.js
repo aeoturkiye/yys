@@ -16,10 +16,7 @@ var i;
   
   this.classList.toggle('active',true);
   this.nextElementSibling.classList.toggle('active',true); 
-} else {
-  this.classList.toggle('active',false);
-  this.nextElementSibling.classList.toggle('active',false); 
-}
+} 
 }
 
 items.forEach(item => item.addEventListener('click', toggleAccordion));
