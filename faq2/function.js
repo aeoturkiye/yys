@@ -3,21 +3,19 @@ const items = document.querySelectorAll(".accordion a");
 function toggleAccordion(){
 
 var acc = document.getElementsByClassName("content");
-
-if (this.nextElementSibling.classList.toggle('active')== false) {
+var asd = document.querySelector(".accordion a");
+  
 var i;
-  for (i = 0; i < acc.length; i++) {  
+  for (i = 0; i < acc.length; i++) { 
+    
+  if (asd !=items[i]) {
   items[i].classList.toggle('active',false);
   items[i].nextElementSibling.classList.toggle('active',false);
   }
   
-  this.classList.toggle('active',true);
-  this.nextElementSibling.classList.toggle('active',true); 
-} else {
-    alert("asd")
-    //items[i].classList.toggle('active',false);
-    //items[i].nextElementSibling.classList.toggle('active',false);
-  }
+  this.classList.toggle('active');
+  this.nextElementSibling.classList.toggle('active'); 
+} 
     
 } 
 
