@@ -9,15 +9,14 @@ function toggleAccordion(){
   var i;
 
   for (i = 0; i < acc.length; i++) {
-  if (asd && asd != this) {
-      asd.classList.remove('active');
-      asd.nextElementSibling.classList.remove('active');
+  if (asd && asd == this) {
+    this.classList.toggle('active');
+    this.nextElementSibling.classList.toggle('active');
     }  
     
   }
   
-  this.classList.toggle('active');
-  this.nextElementSibling.classList.toggle('active');
+
 }
  
 items.forEach(item => item.addEventListener('click', toggleAccordion));
