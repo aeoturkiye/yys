@@ -4,7 +4,7 @@ var acc = document.getElementsByClassName("content");
 
 function toggleAccordion(){
   //var acc = document.getElementsByClassName("content");
-  alert(acc[0].style.display);
+  alert(acc.length);
   this.classList.toggle('active');
   this.nextElementSibling.classList.toggle('active');
   //this.nextElementSibling.classList.toggle('passive');
