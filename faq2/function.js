@@ -9,7 +9,7 @@ function toggleAccordion(){
   var active = document.querySelector(".accordion a");
     if (active && active != this) {
       //active.classList.remove("active");
-      active.nextElementSibling.classList.toggle('passşve');
+      active.nextElementSibling.classList.toggle('passive');
     }
     }  
   
