@@ -5,11 +5,12 @@ function toggleAccordion(){
   var acc = document.getElementsByClassName("content");
   var asd = document.querySelector(".accordion a");
   
-  alert(acc.length);
   var i;
 
   for (i = 0; i < acc.length; i++) {
-  if (asd == this) {
+  alert(i);
+  
+   if (asd == this) {
     asd.classList.toggle('active');
     asd.nextElementSibling.classList.toggle('active');
     }  
