@@ -13,6 +13,7 @@ var i;
   items[i].classList.toggle('active',false);
   items[i].nextElementSibling.classList.toggle('active',false);
   }
+  }
 }
 
 items.forEach(item => item.addEventListener('click', toggleAccordion));
