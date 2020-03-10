@@ -1,29 +1,9 @@
-// Accordian Action
-var action = 'click';
-var speed = "500";
-
-
-$(document).ready(function(){
-
-// Question handler
-  $('div.a').on(action, function(){
-
-    // gets next element
-    // opens .a of selected question
-    $(this).next().slideToggle(speed)
-    
-    // selects all other answers and slides up any open answer
-    .siblings('content').slideUp();
-  
-    // Grab img from clicked question
-    //var img = $(this).children('img');
-
-    // remove Rotate class from all images except the active
-    //$('img').not(img).removeClass('rotate');
-
-    // toggle rotate class
-    //img.toggleClass('rotate');
-
-  });
-
-});
+// Code By Webdevtrick ( https://webdevtrick.com )
+const items = document.querySelectorAll(".accordion a");
+ 
+function toggleAccordion(){
+  this.classList.toggle('active');
+  this.nextElementSibling.classList.toggle('active');
+}
+ 
+items.forEach(item => item.addEventListener('click', toggleAccordion));
