@@ -10,15 +10,8 @@ var i;
   }
   
   this.classList.toggle('active',true);
-  this.nextElementSibling.classList.toggle('active',true);
-  //var asd = document.querySelector(".accordion a");  
-
+  this.nextElementSibling.classList.toggle('active',true); 
   
-   
-    
-  //}
-  
-
 } 
 
 items.forEach(item => item.addEventListener('click', toggleAccordion));
