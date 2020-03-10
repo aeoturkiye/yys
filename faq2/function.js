@@ -17,7 +17,6 @@ var i;
   this.classList.toggle('active',true);
   this.nextElementSibling.classList.toggle('active',true);
 }
-  window.scrollTo(300, 500);
 }
 
 items.forEach(item => item.addEventListener('click', toggleAccordion));
