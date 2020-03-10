@@ -1,8 +1,5 @@
 const items = document.querySelectorAll(".accordion a");
 
-items.classList.toggle('active',false);
-items.nextElementSibling.classList.toggle('active',false);
-
 function toggleAccordion(){
   
   var acc = document.getElementsByClassName("content");
