@@ -4,7 +4,8 @@ const items = document.querySelectorAll(".accordion a");
 function toggleAccordion(){
   this.classList.toggle('active');
   this.nextElementSibling.classList.toggle('active');
- this.siblings('.accordion a').slideUp();
+ var currentContent = $(this).siblings('.toggleAccordion');
+  $('.toggleAccordion').not(currentContent).slideUp();
 }
  
 items.forEach(item => item.addEventListener('click', toggleAccordion));
