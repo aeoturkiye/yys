@@ -5,9 +5,9 @@ function toggleAccordion(){
 this.classList.toggle('active');
 this.nextElementSibling.classList.toggle('active'); 
   
-  //var act = this.classList.hasClass('active');
+var act = this.classList.hasClass('active');
   
-if (this.classList.hasClass('active')){
+if (act){
   alert("active");
 //} else {
 //alert("not");
