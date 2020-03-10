@@ -14,8 +14,7 @@ var i;
   this.nextElementSibling.classList.toggle('active',true); 
 
   if (this.classList.toggle('active')== true) {
-      items.classList.toggle('active',false);
-      items.nextElementSibling.classList.toggle('active',false);
+      alert("asd")
   }
   
   
