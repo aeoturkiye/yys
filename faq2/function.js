@@ -1,4 +1,6 @@
+const items = document.querySelectorAll(".accordion a");
 var acc = document.getElementsByClassName("accordion-item");
+alert(acc);
 var i;
 
 for (i = 0; i < acc.length; i++) {
