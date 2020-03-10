@@ -103,7 +103,7 @@ h3 {
   opacity: 1;
   padding: 1rem;
   max-height: 100%;
-  display:none;
+  display: none;
   -webkit-transition: all 0.35s ease 0.15s;
   -o-transition: all 0.35s ease 0.15s;
   transition: all 0.35s ease 0.15s;
