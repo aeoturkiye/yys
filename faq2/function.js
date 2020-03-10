@@ -8,12 +8,12 @@ function toggleAccordion(){
   var i;
 
   for (i = 0; i < acc.length; i++) {
-  alert(i);
-  
-   if (asd == this) {
-    asd.classList.toggle('active');
-    asd.nextElementSibling.classList.toggle('active');
-    }  
+  items[i].classList.toggle('active');
+  items[i].nextElementSibling.classList.toggle('active');
+  // if (asd == this) {
+   // asd.classList.toggle('active');
+  //  asd.nextElementSibling.classList.toggle('active');
+  //  }  
     
   }
   
