@@ -10,8 +10,8 @@ function toggleAccordion(){
 
   for (i = 0; i < acc.length; i++) {
   if (asd == this) {
-    this.classList.toggle('active');
-    this.nextElementSibling.classList.toggle('active');
+    asd.classList.toggle('active');
+    asd.nextElementSibling.classList.toggle('active');
     }  
     
   }
