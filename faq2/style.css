@@ -102,7 +102,8 @@ h3 {
 .accordion .content.active {
   opacity: 1;
   padding: 1rem;
-  max-height: 50%;
+  max-height: 100%;
+  display:none;
   -webkit-transition: all 0.35s ease 0.15s;
   -o-transition: all 0.35s ease 0.15s;
   transition: all 0.35s ease 0.15s;
