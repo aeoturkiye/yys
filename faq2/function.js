@@ -4,8 +4,8 @@ function toggleAccordion(){
   
   //var acc = document.getElementsByClassName("content");
   
-  this.classList.toggle('active');
-  this.nextElementSibling.classList.toggle('active');
+  this.classList.toggle('active',true);
+  this.nextElementSibling.classList.toggle('active',true);
   //var asd = document.querySelector(".accordion a");  
   //var i;
   //for (i = 0; i < acc.length; i++) {  
