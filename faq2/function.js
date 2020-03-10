@@ -2,6 +2,9 @@ const items = document.querySelectorAll(".accordion a");
 
 function toggleAccordion(){
 
+  this.classList.toggle('active');
+  this.nextElementSibling.classList.toggle('active');
+  
 if (this.classList.contains("active")){ 
   
 var acc = document.getElementsByClassName("content");
