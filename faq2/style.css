@@ -107,3 +107,12 @@ h3 {
   -o-transition: all 0.35s ease 0.15s;
   transition: all 0.35s ease 0.15s;
 }
+
+.accordion .content.passive {
+  opacity: 1;
+  padding: 1rem;
+  display:none;
+  -webkit-transition: all 0.35s ease 0.15s;
+  -o-transition: all 0.35s ease 0.15s;
+  transition: all 0.35s ease 0.15s;
+}
