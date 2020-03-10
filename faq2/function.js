@@ -1,11 +1,14 @@
 const items = document.querySelectorAll(".accordion a");
 
+items.classList.toggle('active',false);
+items.nextElementSibling.classList.toggle('active',false);
 
 function toggleAccordion(){
-  var acc = document.getElementsByClassName("content");
-  items.classList.toggle('active',false);
-  items.nextElementSibling.classList.toggle('active',false);
   
+  var acc = document.getElementsByClassName("content");
+  
+  this.classList.toggle('active');
+  this.nextElementSibling.classList.toggle('active');
   //var asd = document.querySelector(".accordion a");
   
   //var i;
@@ -22,6 +25,5 @@ function toggleAccordion(){
 
 }
  
-  this.classList.toggle('active');
-  this.nextElementSibling.classList.toggle('active');
+
 //items.forEach(item => item.addEventListener('click', toggleAccordion));
