@@ -8,8 +8,8 @@ function toggleAccordion(){
   var i;
 
   for (i = 0; i < acc.length; i++) {
-  items[i].classList.remove('active');
-  items[i].nextElementSibling.classList.remove('active');
+  items[i].classList.toggle('active',false);
+  items[i].nextElementSibling.classList.toggle('active',false);
   if (asd == this) {
    this.classList.toggle('active');
    this.nextElementSibling.classList.toggle('active');
