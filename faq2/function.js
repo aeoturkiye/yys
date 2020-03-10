@@ -9,8 +9,8 @@ var i;
   items[i].nextElementSibling.classList.toggle('hide');
   }
   
-  this.classList.toggle('show');
-  this.nextElementSibling.classList.toggle('show'); 
+  this.classList.toggle('active');
+  this.nextElementSibling.classList.toggle('active'); 
   
 } 
 
