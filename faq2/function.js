@@ -5,12 +5,12 @@ function toggleAccordion(){
 var acc = document.getElementsByClassName("content");
 var i;
   for (i = 0; i < acc.length; i++) {  
-  items[i].classList.toggle('deactive');
-  items[i].nextElementSibling.classList.toggle('deactive');
+  items[i].classList.toggle('hide');
+  items[i].nextElementSibling.classList.toggle('hide');
   }
   
-  this.classList.toggle('active');
-  this.nextElementSibling.classList.toggle('active'); 
+  this.classList.toggle('show');
+  this.nextElementSibling.classList.toggle('show'); 
   
 } 
 
