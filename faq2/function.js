@@ -1,6 +1,6 @@
 // Code By Webdevtrick ( https://webdevtrick.com )
 const items = document.querySelectorAll(".accordion a");
-var acc = document.getElementsByClassName("accordion-item");
+var acc = document.getElementsByClassName("content");
 
 function toggleAccordion(){
   alert(acc);
