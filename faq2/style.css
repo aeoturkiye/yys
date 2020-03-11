@@ -22,8 +22,8 @@ body {
 }
 .container {
   margin: 0 auto;
-  padding: 4rem;
-  width: 64rem;
+  padding: 0rem;
+  width: 48rem;
 }
 h3 {
   font-size: 1.75rem;
