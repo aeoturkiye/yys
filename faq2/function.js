@@ -1,22 +1,29 @@
-const items = document.querySelectorAll(".accordion a");
+// Accordian Action
+var action = 'click';
+var speed = "500";
 
-function toggleAccordion(){
 
-  this.classList.toggle('active');
-  this.nextElementSibling.classList.toggle('active');
-  
-if (this.classList.contains("active")){ 
-  
-var acc = document.getElementsByClassName("content");
-var i;
-  for (i = 0; i < acc.length; i++) {  
-  items[i].classList.toggle('active',false);
-  items[i].nextElementSibling.classList.toggle('active',false);
-  }
-  
-  this.classList.toggle('active',true);
-  this.nextElementSibling.classList.toggle('active',true);
-} 
-}
+$(document).ready(function(){
 
-items.forEach(item => item.addEventListener('click', toggleAccordion));
+// Question handler
+  $('li.q').on(action, function(){
+
+    // gets next element
+    // opens .a of selected question
+    $(this).next().slideToggle(speed)
+    
+    // selects all other answers and slides up any open answer
+    .siblings('li.a').slideUp();
+  
+    // Grab img from clicked question
+    var img = $(this).children('img');
+
+    // remove Rotate class from all images except the active
+    $('img').not(img).removeClass('rotate');
+
+    // toggle rotate class
+    img.toggleClass('rotate');
+
+  });
+
+});
