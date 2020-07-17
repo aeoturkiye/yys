@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="tr" >
+<head>
+  <meta charset="UTF-8">
+  <title>21.02.2020 Tarihli YYS Yönetmelik Deðiþikliði SSS</title>
+  <link rel='stylesheet' href='https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css'>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+<div class="container">
+ 
+  <h2>Sýkça Sorulan Sorular</h2>
+ <p>Aþaðýdaki açýklamalar; Soru, Görüþ ve Öneri Formu yolu ile aktarýlan hususlar hakkýnda bilgilendirme niteliðinde olup deðiþikliklere dair baðlayýcý bir dayanak teþkil etmez.<p>
+  <div class="accordion">
+    <div class="accordion-item">
+      <span>1) YYS-I ve YYS-II Statüleri nedir? Nasýl baþvuru yapýlýr?</span>
+      <div class="content">
+        <p>Yetkilendirilmiþ yükümlü sertifikasýna ek olarak YYS-I ve YYS-II statüleri getirilmiþtir. Sertifika sahipleri, talep etmeleri ve gerekli koþullarý saðlamalarý þartýyla, söz konusu ek statülerden birine sahip olabilirler. Ancak bu statülerden herhangi birinin <u>talep edilmesi zorunlu deðildir</u>; talepte bulunmayan firmalar yetkilendirilmiþ yükümlü sertifikasýna sahip olmaya devam edecektir.<br>
+ <br>
+Ek statülere baþvuru yapmak isteyenler, Yönetmeliðin 10 uncu maddesinin yirmi üçüncü fýkrasýnda sayýlan belgeler ile dilekçe aracýlýðýyla ilgili Bölge Müdürlüðüne baþvurularýný gerçekleþtirebilirler. Ayrýca, sertifika sahibi olmayan firmalarýn sertifika sahibi olmak için yapacaklarý ilk baþvuruda söz konusu ek statülerin talep edilmesi halinde, Ek-1/A’da bulunan ilgili bölümünde talepte bulunmalarý mümkündür.<br>
+ <br>
+Ek statülerin koþullarý aþaðýdaki gibidir:<br>
+<strong><u>YYS-I: </u></strong><br>
+Ýmalatçý olmak, son 1 yýlda 5 milyon USD fiili ihracat gerçekleþtirmiþ olmak ve son 1 yýl içerisinde ortalama 50 iþçi çalýþtýrmýþ olmak<br>
+veya<br>
+Ýmalatçý olmak ve son 1 yýlda 10 milyon USD fiili ihracat gerçekleþtirmiþ olmak<br>
+ <br>
+<strong><u>YYS-II:</u></strong><br>
+Ýmalatçý olmak, son 1 yýlda 1 milyon USD fiili ihracat gerçekleþtirmiþ olmak ve son 1 yýl içerisinde ortalama 30 iþçi çalýþtýrmýþ olmak<br>
+veya<br>
+Ýmalatçý olmak ve son 1 yýlda 5 milyon USD fiili ihracat gerçekleþtirmiþ olmak</p>
+</p>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <span>2) YYS-I ve YYS-II statüleri sahiplerine hangi avantajlar saðlanacaktýr?</span>
+      <div class="content">
+        <p><p>YYS-I statüsüne sahip firmalar ithalatta yerinde gümrükleme kapsamýnda iþlem yapabilir. Ýzinli alýcý yetkisi sahipleri de YYS-I ek statüsü sahiplerinin iþlemlerini bu yetki kapsamýnda gerçekleþtirebilir.<br>
+ <br>
+Ayrýca, YYS-I ve YYS-II statüleri sahiplerine ait gümrük beyannamesi kapsamý ithalat ve ihracat eþyasý, bu statülere sahip olmayan sertifika sahiplerine göre daha az belge kontrolüne tabi tutulabilir.
+</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>3) YYS-I veya YYS-II taleplerinde hangi belgelerin ibrazý gerekir?</span>
+      <div class="content">
+        <p>Hâlihazýrda YYS sertifikasý bulunan firmalarýn ek statülere baþvuru yapmak istemeleri halinde, aþaðýda sayýlan belgeler ile dilekçe aracýlýðýyla ilgili Bölge Müdürlüðüne baþvuru yapýlabilir.</p>
+
+<ol style="list-style-type:lower-alpha;">
+	<li>Aþaðýdaki belgelerden herhangi birisi:</li>
+</ol>
+               i. Sanayi sicil belgesi veya kayýtlý bulunulan sanayi ve/veya ticaret odasýndan alýnan onaylý kapasite raporu<br>
+               ii. Sanayi ve/veya ticaret odasýnca düzenlenip onaylanacak ekspertiz raporu<br>
+               iii. Grup ithalatçýlarý için, gerçekleþtirilen ithalatýn en az yüzde altmýþýnýn grup imalatçýlarýnýn üretiminde kullanýlan eþyanýn ithalatý olduðunu gösterir rapor
+<ol style="list-style-type:lower-alpha;">
+	<li value="2">Performans koþulu dýþ ticaret sermaye þirketleri, sektörel dýþ ticaret þirketleri ve/veya grup ihracatçýsý aracýlýðýyla yapýlan ihracat üzerinden saðlanýyorsa Türkiye Ýhracatçýlar Meclisi veya baðlý bulunulan ihracatçý birliðince düzenlenmiþ performans ve güvenilirlik formu aslý.<br>
+	 </li>
+	<li value="3">Sigortalý çalýþan sayýsýnýn tevsikine iliþkin olarak Sosyal Güvenlik Kurumunun ilgili birimlerinden alýnan yazý aslý.</li>
+</ol>
+
+<p>YYS baþvurusu sýrasýnda YYS-I veya YYS-II statüsü de talep eden firmalar ise YYS için gereken belgelere ek olarak yukarýda sayýlan belgeleri ibraz eder.</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>4) Yetkilendirilmiþ yükümlü statüsü baþvurusu sýrasýnda YYS-I veya YYS-II statüleri talep edilebilir mi? YYS olmaya hak kazandýktan sonra ek statü baþvurusu yapýlabilir mi?</span>
+      <div class="content">
+        <p>YYS baþvurusu ile eþ zamanlý olarak YYS-1 veya YYS-2 statüleri talep edebileceði gibi, hâlihazýrda YYS sahibi olan firmalar da YYS-I ve YYS-II statüleri için baþvuru yapabilir.
+</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>5) Dýþ ticaret sermaye þirketleri, sektörel dýþ ticaret þirketleri ve/veya grup ihracatçýsý aracýlýðýyla yapýlan iþlemler, YYS-I veya YYS-II için aranan performans koþullarýnýn saðlanmasýnda dikkate alýnýrken yetkilendirilmiþ yükümlü statüsü baþvurularýnda dikkate <u>alýnmamakta mýdýr?</u></span>
+      <div class="content">
+        <p><p>YYS-I veya YYS-II için aranan performans koþullarýnýn saðlanmasýnda; dýþ ticaret sermaye þirketleri, sektörel dýþ ticaret þirketleri ve/veya grup ihracatçýsý aracýlýðýyla yapýlan iþlemler de dikkate alýnýr. Ancak bu iþlemler, 31/12/2021 tarihine kadar geçerli olan geçici performans sýnýrlamasý kapsamýnda yetkilendirilmiþ yükümlü statüsü baþvurularýnda aranan performans koþullarýnýn hesaplanmasýnda dikkate alýnmaz.<br>
+ <br>
+YYS-I veya YYS-II için aranan performans koþullarýnýn saðlanmasý YYS baþvurularýnda aranan geçici performans koþulunun saðlandýðý anlamýna gelmez.<br>
+ <br>
+Örneðin; yetkilendirilmiþ yükümlü baþvurusunda bulunan bir firmanýn üç milyon ABD dolarý tutarýnda fiili ihracat yapmýþ olmasý durumunda, söz konusu firma YYS-II koþulunu saðlamasýna raðmen firmanýn YYS baþvurusu kabul edilmez.<br>
+ <br>
+Söz konusu firmanýn üç milyon ABD dolarý tutarýnda fiili ihracatýnýn yaný sýra, dýþ ticaret sermaye þirketi aracýlýðýyla gerçekleþtirdiði dört milyon ABD dolarý tutarýnda ihracatý olsa dahi firma geçici performans koþulunu saðlamýþ sayýlmaz.<br>
+ <br>
+Yirmi milyon ABD dolarý tutarýnda ithalat iþlemi yapan bir firma geçici sýnýrlama koþulunu saðlayarak YYS statüsüne baþvurabileceði gibi, dýþ ticaret sermaye þirketi aracýlýðýyla gerçekleþtirdiði beþ milyon ABD dolarý tutarýnda ihracatla YYS-I talebinde de bulunabilir.
+ </p>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <span>6) Ýhracatta yerinde gümrükleme yetkisinden faydalanabilmek için YYS-I veya YYS-II olma þartý aranýr mý?</span>
+      <div class="content">
+        <p>Yetkilendirilmiþ yükümlü statüsüne sahip firmalarýn, ithalatta yerinde gümrükleme kapsamýnda iþlem yapabilmesi için 4/A maddesinin birinci fýkrasý kapsamýnda YYS-I statüsüne sahip olmalarý gerekirken, ihracatta yerinde gümrükleme yetkisinden faydalanabilmek için YYS-I veya YYS-II olma þartý <u>aranmamaktadýr</u>.</p>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <span>7) Faaliyet raporunun yeni formatýnda nelere dikkat edilmesi gerekmektedir?</span>
+      <div class="content">
+        <p>Faaliyet raporlarýnýn Bölge Müdürlüklerine ibraz zorunluluðu kaldýrýlmýþtýr. Bu nedenle, hazýrlanan faaliyet raporlarý artýk firmada saklanacaktýr.<br>
+ <br>
+Rapora konu edilecek beyanname oraný %5 olarak belirlenmiþtir. Seçilecek beyannamelerin rejim kodu daðýlýmýna iliþkin herhangi bir kriter bulunmamakla beraber rapor formatýnda gümrük iþlemlerini etkileyebilecek hususlara iliþkin inceleme yapýlmasýna yönelik sorular bulunmaktadýr.<br>
+ <br>
+Rapor formatlarýnda yer alan “Gümrük Ýdaresi Tarafýndan Teblið Edilmiþ Ek Tahakkuk ve Ceza Kararlarý” bölümlerinde, inceleme dönemi içerisinde gümrük idaresi tarafýndan teblið edilmiþ <u>tüm</u> ek tahakkuk ve ceza kararlarýna yer verilmesi gerekmektedir.<br>
+ <br>
+Rapor formatlarýnda yer alan “Ýnceleme Sonuçlarý” bölümlerinde;</p>
+
+<ul>
+	<li>Ek-22/A kapsamýnda inceleme yapýlýyorsa, aykýrýlýk tespit edilip edilmediðinden baðýmsýz olarak incelenen tüm beyannamelerin listelenmesi gerekmektedir.</li>
+	<li>Ek-22/B kapsamýnda inceleme yapýlýyorsa, sadece aykýrýlýk tespit edilen beyannamelerin listelenmesi gerekmektedir.</li>
+</ul>
+
+<p> <br>
+Faaliyet raporunu düzenleyen kiþiye iliþkin ayrýntýlara “Rapora iliþkin bilgiler” bölümünde yer verilecektir. Adýna rapor düzenlenen firmanýn dýþ ticaret iþlemlerinde temsile yetkili kiþileri ise raporun sonunda yer alan imza bölümünü imzalayacaklardýr. Bu durumda, raporun hizmet alýmý yoluyla düzenletilmesi halinde hizmet alýnan firmanýn imzasý rapor üzerinde bulunmayacaktýr.
+</p>
+      </div>
+    </div>
+   <div class="accordion-item">
+      <span>8) Ýzleme sürecinde hangi deðiþiklikler yapýldý? Sertifika sahibi firmalarýn izleme süreçleri kaç yýlda bir gerçekleþtirilecek?</span>
+      <div class="content">
+        <p>Yetkilendirilmiþ yükümlü sertifikasý sahipleri için izleme dönemi 3 yýldan 5 yýla çýkarýlmýþtýr.<br>
+ <br>
+<u>31/12/2016 tarihinden önce</u> alýnan sertifikalar için ilk izleme süreci yakýn zamanda tamamlanacak olup söz konusu firmalarýn ikinci izleme süreci, sertifikanýn düzenlendiði ay ve güne göre 2024 yýlý içerisinde gerçekleþtirilecektir. Bu sertifikalar için izleme süreci, 2024 yýlýndan itibaren 5 yýlda bir olarak hesaplanacaktýr.<br>
+Örneðin, 09.10.2013 tarihinde sertifika almýþ bir firmanýn ilk izleme süreci 2019 yýlý içerisinde gerçekleþtirilmiþtir. Bu firmanýn ikinci izleme süreci 2024 yýlý içerisinde, üçüncü izleme süreci 2029 yýlý içerisinde ve devamýndaki izleme süreçleri bundan sonraki her 5 yýlda bir gerçekleþtirilecektir.<br>
+Ayný þekilde 16.03.2016 tarihinde sertifika almýþ bir firmanýn ilk izleme süreci 2019 yýlý içerisinde gerçekleþtirilmiþtir. Bu firmanýn ikinci izleme süreci 2024 yýlý içerisinde, üçüncü izleme süreci 2029 yýlý içerisinde ve devamýndaki izleme süreçleri bundan sonraki her 5 yýlda bir gerçekleþtirilecektir.<br>
+ <br>
+<u>01/01/2017 tarihinden sonra</u> alýnan sertifikalar için izleme dönemi, sertifikanýn düzenlendiði ay ve güne göre 5 yýlda bir gerçekleþtirilecektir.<br>
+Örneðin, 22.07.2017 tarihinde sertifika almýþ bir firmanýn ilk izleme süreci 2022 yýlý içerisinde, ikinci izleme süreci 2027 yýlý içerisinde ve devamýndaki izleme süreçleri bundan sonraki her 5 yýlda bir gerçekleþtirilecektir.
+</p>
+      </div>
+  </div>
+  <div class="accordion-item">
+      <span>9) Yetkilendirilmiþ yükümlü sertifikasý sahibi bir firma, sertifika kapsamýndaki tesislerde deðiþiklik yapmak için hangi belgeleri ibraz etmelidir?</span>
+      <div class="content">
+        <p>Yönetim ofisinin, gümrük iþlemlerine konu eþyaya iliþkin bilgilerin yer aldýðý muhasebe ve arþiv ofisleri ve bilgi iþlem ofisinin fiziki yapýsýnda deðiþiklik yapýlmasý, bu nitelikte yeni tesis açýlmasý ya da kiralanmasý durumunda: EK-1/A ibraz edilir. (<u>EK-2 ve EK-24 ibrazý gerekmez</u>.)<br>
+ <br>
+Üretim tesisi, eþyanýn ihraç edilmeden önce depolandýðý, elleçlendiði depo/tesis ve eþyanýn ithal iþlemleri gümrük idaresinde veya gümrük idaresince yetkilendirilen baþka bir yerde tamamlandýktan sonra doðrudan getirilerek konulduðu ilk depo veya tesislerinin fiziki yapýsýnda deðiþiklik yapýlmasý, bu nitelikte yeni tesis açýlmasý ya da 6 aydan daha uzun süre için kiralanmasý durumunda: EK-1/A ile EK-24 ibraz edilir. (<u>EK-2 ibrazý gerekmez</u>.)<br>
+ <br>
+Kýsmen kiralanan tesisler hariç olmak üzere yukarýda sayýlan tüm tesisler için ISO 9001 ve ISO 27001 sertifikalarýnýn da ibraz edilmesi gerekir.
+</p>
+      </div>
+    </div>
+<div class="accordion-item">
+      <span>10) Kýsmen kiralama nedir? Kýsmen kiralanan tesisler için hangi iþlemlerin yapýlmasý gerekir?</span>
+      <div class="content">
+        <p><p>Kýsmen kiralanan tesisler ifadesinden farklý bir kiþiye ait bir tesisin sadece bir bölümünün kiralanmasý ve kiralayan firmanýn dýþýnda baþka firmalarýn da tesiste bulunmasý anlaþýlmalýdýr.<br>
+<br>
+Kýsmen kiralanan tesislerin ISO 9001 ve ISO 27001 belgelerinin kapsamýna dahil edilmesi <u>gerekmemektedir</u>.<br>
+<br>
+Ancak söz konusu tesislerin baþvuru sýrasýnda Ek-2 Soru Formunun 1.9 numaralý sorusunda bildirilmesi ve bu tesislerde gerekli emniyet ve güvenlik önlemlerinin alýnmýþ olmasý gerekir.</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>11) Ýhraç kayýtlý satýþlar ihracat performansýnýn hesaplanmasýnda dikkate alýnýr mý?</span>
+      <div class="content">
+        <p>Ýhraç kayýtlý satýþlar, Yönetmeliðin 4/A maddesinin birinci fýkrasýnýn (b) bendi ile ikinci fýkrasýnýn (b) bendinde belirtilen koþullarýn saðlanmasýnda dikkate <u>alýnmamaktadýr</u>.</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>12) Ayniyet tespitine iliþkin hükümler neden yürürlükten kaldýrýldý?</span>
+      <div class="content">
+        <p>Ayniyet tespitine iliþkin tedbirler ilgili rejim hükümleri çerçevesinde yürütülmesi gereken iþlemlerdir. YYS sahibi firmalarýn ihracatta yerinde gümrükleme, ithalatta yerinde gümrükleme, izinli gönderici veya izinli alýcý kapsamýnda gerçekleþtirecekleri iþlemler yetki/izin sahiplerine lojistik avantajlar saðlayacak olup ayniyet tespitine iliþkin tedbirlerden muaf olunmasýný gerektirecek bir durum bulunmamaktadýr. Örneðin, dahilde iþleme rejimine tabi bir eþyanýn özel þartlarýnda ayniyet tedbirlerinin uygulanmasý öngörülmüþse, bu eþyanýn ihracatta yerinde gümrükleme izni kapsamýnda ihraç edilecek olmasý eþya üzerindeki ayniyet tedbirlerine istisna saðlamaz.</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>13) Ýzinli gönderici yetkisi kapsamýndaki parsiyel taþýmalarda, tesisler de hem izinli gönderici hem izinli alýcý kapsamýnda yetkilendirilmiþ olmalý mýdýr?</span>
+      <div class="content">
+        <p>Ýzinli gönderici yetkisi kapsamýndaki parsiyel taþýmalarda, tesisler de hem izinli gönderici hem izinli alýcý kapsamýnda yetkilendirilmiþ olmasýna gerek bulunmamaktadýr. Ancak parsiyel iþlemini yapacak firmanýn her iki yetkiye birden sahip olmasý gerekmektedir.</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>14) Ýthalatta yerinde gümrükleme iþlemleri nasýl yürütülecektir?</span>
+      <div class="content">
+        <p>Ýthalatta yerinde gümrükleme iþlemlerinin nasýl yürütüleceðine iliþkin yükümlü kýlavuzuna eriþmek için <a href="https://ticaret.gov.tr/" target="_blank">buraya týklayýnýz</a>.</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>15) Ýthalatta yerinde gümrükleme izni kapsamýnda tesiste güvenli park alaný bulunuyorsa güvenli depolama alanýnýn da bulunmasý zorunlu mudur?</span>
+      <div class="content">
+        <p>Ýthalatta yerinde gümrükleme izni kapsamýndaki tesislerde güvenli depolama alaný bulunmasý zorunludur. Ýzin kapsamýnda yapýlacak iþlemlere göre bu tesislerde ayný zamanda güvenli park alaný da bulunabilir.</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>16) Ýthalatta yerinde gümrükleme izni kapsamýnda ithalatýna iliþkin beyannamesi tescil edilen eþyanýn muayene iþlemleri hangi sürede tamamlanacaktýr?</span>
+      <div class="content">
+        <p>Ýthalatta yerinde gümrükleme izni kapsamýnda ithalata iliþkin beyannamesi tescil edilen eþyanýn fiziki muayene tabi tutulacak olmasý halinde muayene iþlemi, kontrol türü bildirim süresinin bitimini müteakip azami üç saat içinde eþyanýn bulunduðu ithalatta yerinde gümrükleme izni sahibine ait tesislere gidilerek baþlatýlýr.<br>
+<br>
+Ancak eþyanýn bulunduðu tesis için yetkilendirilen gümrük müdürlüðünün iþ yoðunluðu veya mücbir sebeplerden ötürü bu sürenin ithalatta yerinde gümrükleme izni sahibinin eþyasýnýn bulunduðu tesislere gidilerek muayene yapýlmasý için yeterli olmamasý halinde, ilgili gümrük müdürü, gerekçesi belirtilmek suretiyle, süreyi uzatmaya yetkilidir.<br>
+<br>
+Muayene iþleminin eþyanýn muayene edileceðine iliþkin yapýlan bildirimi müteakip üç saat içerisinde baþlatýlamayacak olmasý ve bu sürenin ilgili gümrük müdürü tarafýndan bu fýkrada belirtilen þartlar altýnda uzatýlmýþ olmasý halinde, muayene iþlemi en geç bir sonraki iþ gününün baþlangýcýný takip eden üç saat içerisinde baþlatýlýr.<br>
+<br>
+Ýthalatta yerinde gümrükleme izni sahibinden kaynaklanan sebeplerden dolayý yaþanan gecikmelerde bu fýkrada öngörülen ek süre dâhil süre dikkate alýnmaz.</p>
+      </div>
+    </div>
+	<div class="accordion-item">
+      <span>17) Ýthalatta yerinde gümrükleme izni kapsamýndaki iþlemlerde boþaltma esnasýnda çýkan eksik veya fazla eþya ile ilgili hangi iþlemler yapýlmalýdýr?</span>
+      <div class="content">
+        <p>Ýthalatta yerinde gümrükleme izni kapsamýndaki eþyanýn boþaltma iþlemleri tamamlandýðýnda, boþaltýlan eþyaya iliþkin bilgiler NCTS Yükümlü Arayüzü - Boþaltma Bildir ekranýndan gümrük idaresi ile paylaþýlacaktýr. Boþaltma sýrasýnda eksik veya fazla eþya çýkmasý halinde, eksik veya fazla çýkan eþya da ayný ekran üzerinden bildirilecek ve uyuþmazlýk bildiriminde bulunulacaktýr. Uyuþmazlýk bildirilmesi halinde ise iþlemler gümrük idaresi tamamlanacaktýr.</p> 
+      </div>
+    </div>
+</div>
+ 
+<script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+<script  src="function.js"></script>
+ 
+</body>
+</html>
