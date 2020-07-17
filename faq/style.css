@@ -31,7 +31,7 @@ h3 {
   padding: 1.3rem;
   margin: 0;
 }
-.accordion a {
+.accordion span {
   position: relative;
   display: -webkit-box;
   display: -webkit-flex;
@@ -49,19 +49,19 @@ h3 {
   font-weight: 400;
   border-bottom: 1px solid #e5e5e5;
 }
-.accordion a:hover,
-.accordion a:hover::after {
+.accordion span:hover,
+.accordion span:hover::after {
   cursor: pointer;
   color: #ff5353;
 }
-.accordion a:hover::after {
+.accordion span:hover::after {
   border: 1px solid #ff5353;
 }
-.accordion a.active {
+.accordion span.active {
   color: #ff5353;
   border-bottom: 1px solid #ff5353;
 }
-.accordion a::after {
+.accordion span::after {
   font-family: 'Ionicons';
   content: '\f218';
   position: absolute;
@@ -78,7 +78,7 @@ h3 {
   border: 1px solid #7288a2;
   text-align: center;
 }
-.accordion a.active::after {
+.accordion span.active::after {
   font-family: 'Ionicons';
   content: '\f209';
   color: #ff5353;
