@@ -1,4 +1,4 @@
-const items = document.querySelectorAll(".accordion a");
+const items = document.querySelectorAll(".accordion span");
 
 function toggleAccordion(){
 
